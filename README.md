@@ -1,5 +1,4 @@
 # RealmofRespect
-Description
 
 The RealmofRespect is a comprehensive platform dedicated to promoting virtual etiquette, ethics, and responsible online behavior. Our goal is to educate individuals of all ages about the do's and don'ts of the digital world, empowering them to navigate the virtual realm with confidence and respect.
 Key Features
